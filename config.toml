@@ -12,7 +12,6 @@ pygmentsCodeFences = true
 
 #disqusShortname = "myShortName"
 
-# Note: to disable a social network icon delete or comment out the corresponding line
 [author]
     name = "Hanson Hu"
     github = "hanson2010"
@@ -29,7 +28,7 @@ pygmentsCodeFences = true
     tagline = "A lifelong programmer."
     description = "Knowledge, fun, and random thoughts."
     #images = [""] #This is used for opengraph/twitter cards.
-    customCSS = []  #Optional Customised CSS
+    customCSS = ["css/custom.css"]
     favicon = "/favicon.ico"
     utterancesRepo = "hanson2010/hanson2010.github.io"
     utterancesIssueTerm = "pathname"
@@ -39,6 +38,11 @@ pygmentsCodeFences = true
     #katex = true #Enable display of mathematics using katex (Faster LaTeX rendering)
     #google_fonts = ["Staatliches"] # Adds additional google fonts
     #disableDarkModeCSS = false # disables css style for users using dark-mode
+
+[markup]
+    [markup.goldmark]
+        [markup.goldmark.renderer]
+            unsafe = true
 
 [[menu.main]]
     identifier = "archive"
@@ -60,9 +64,3 @@ pygmentsCodeFences = true
     name = "RSS Feed"
     url = "/index.xml"
     weight = 4
-
-[params.gitalk]
-  owner = "hanson2010"
-  repo = "hanson2010.github.io"
-  client_id = "a342cb50d0eb7812a593"
-  client_secret = "d5c4686542955356a733efc16815edb0cf217885"

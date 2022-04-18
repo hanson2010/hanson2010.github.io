@@ -13,7 +13,7 @@ tags:
 <!-- more -->
 如果你采用的发行是Anaconda或WinPython，恭喜你，你已经安装了xlwings。否则，使用`pip`手动安装：
 
-```
+```shell
 pip install xlwings
 xlwings addin install
 ```
@@ -24,7 +24,7 @@ xlwings addin install
 
 快速新建一个测试项目：
 
-```
+```shell
 xlwings quickstart Book1
 ```
 

@@ -11,8 +11,8 @@ tags:
 
 当分享内容到Facebook时（例如使用以下的浏览器书签栏脚本），有两个选项常常让人糊涂。
 <!-- more -->
-```
-> javascript:var d=document,f='[https://www.facebook.com/share](https://www.facebook.com/share)',l=d.location,e=encodeURIComponent,p='.php?src=bm&v=4&i=1545109421&u='+e(l.href)+'&t='+e(d.title);1;try{if (!/^(.\*\\.)?facebook\\.\[^.\]\*$/.test(l.host))throw(0);share\_internal\_bookmarklet(p)}catch(z) {a=function() {if (!window.open(f+'r'+p,'sharer','toolbar=0,status=0,resizable=1,width=626,height=436'))l.href=f+p};if (/Firefox/.test(navigator.userAgent))setTimeout(a,0);else{a()}}void(0)
+```javascript
+javascript:var d=document,f='[https://www.facebook.com/share](https://www.facebook.com/share)',l=d.location,e=encodeURIComponent,p='.php?src=bm&v=4&i=1545109421&u='+e(l.href)+'&t='+e(d.title);1;try{if (!/^(.\*\\.)?facebook\\.\[^.\]\*$/.test(l.host))throw(0);share\_internal\_bookmarklet(p)}catch(z) {a=function() {if (!window.open(f+'r'+p,'sharer','toolbar=0,status=0,resizable=1,width=626,height=436'))l.href=f+p};if (/Firefox/.test(navigator.userAgent))setTimeout(a,0);else{a()}}void(0)
 ```
 
 简言之，News Feed就是你在Facebook上最常用的功能，你的朋友和群组的新消息都在这里聚集。一条新消息就是一个Post。
