@@ -1,0 +1,88 @@
+==================================================================
+https://keybase.io/hanson2010
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://blog.pythoner.work
+  * I am hanson2010 (https://keybase.io/hanson2010) on keybase.
+  * I have a public key with fingerprint A59C 219B E9AA 825C AB62  9A4B B4DC CFE6 F609 B0F6
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120fd4338fab134778a1323028f716a52f9db509b4ea9c6e12fb9fe01a3f3579ebc0a",
+      "fingerprint": "a59c219be9aa825cab629a4bb4dccfe6f609b0f6",
+      "host": "keybase.io",
+      "key_id": "b4dccfe6f609b0f6",
+      "kid": "0101d996ede9a473879bee613e613bc9a9f5c40c93b4a6bde256e632506eb96b70c30a",
+      "uid": "2cb98a010b4ffe97d8b92008e1a8c519",
+      "username": "hanson2010"
+    },
+    "merkle_root": {
+      "ctime": 1650328781,
+      "hash_meta": "8b0746e49665b99d461cda287e2cca48b440393abfe6fc1448bcb9c38c2733ad",
+      "seqno": 22319547
+    },
+    "revoke": {
+      "sig_ids": [
+        "5c78bee8b848ca7c54102c089999faa17faf122157090b5100754d99e8d7b62c0f"
+      ]
+    },
+    "service": {
+      "hostname": "blog.pythoner.work",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1650328827,
+  "expire_in": 157680000,
+  "prev": "f77813f766fbadf243fc9ab5487128a57f8dcdd0b4e8425d96f4fd9b977c23b3",
+  "seqno": 53,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMQMAnicbZMLbBRFGMevpRCuSigiiNoAbn0Fsdmdfc00JEgUsRXFVwHp45iZnbmu
+1962d9ejhZYqkACFoglCKAJiS6ikteGl0qMErFYeFVEklIelBQpYIUIgNDzF2QZi
+TJxks9nJ//t///l9Oz8M6udJjNv++6Hzvd7NvXFtLRXFHpKbcHuORByrVEqbIwVY
+34vlWywc8QVsS0qTZAXI3NJUFXJMFFUzTYgVFagygNxUDKwDjiyiy4hoDCNqMAVw
+gjiTFaxyVTcRI1TG0liJ20E/CxWG7GBE2GIdUaAgwhDGEOgUEwMgrBGiWZRyZnBD
+OMrcEIV5TtitEOEIDrNU2xF74sPXF+9/9A9yy4qFkMEs0UIzVWiKZsxQVPchFGHE
+darJFKlEwwaxGNANZqhAlw1GkEFMmap9uYv77AAlCGJhSjTOGTItSBCQZcgUDKmu
+IFcYZqEgLmBCnYeDYScIhFwqHysVsFAgn/lCjhNx8dKI7YoUQ5dVAE2oiCPicJ6v
+gEWwqIVENjWDacgwdIKQpRkKtbAQMkAp1iDRNFlFKibuqamiiR2RjaqQAlNVsSWS
+hFlR0JHSAFAVpGumiBBiUSfA3O5h2y/IhaW0LEmnJhRMIIEapNikuqbIgMoQicUx
+VkyOuQKAopsykomuyLKpa4Ipg5YpxkVlLuWUu91CUZv2mbujuo+A5Dv+1MLSSJ4T
+ZKHUWU4oIIIVhpyIQ518F1EkUhhOc/FESgvdglmM+O5b+YgdtMTvIiqiLBS2naDA
+JZT/JQeBOVZiJYV2iPlsV6GbBpTFcvuwqLDk4mdVVG4aBifY4kBTuRg80TVoKgBi
+3eTQopYlZsqgBnQLGVzjFiLINClQifovSl0VObFfeAp+QRwpDjGpvOW77ARPXKJn
+QP949x55Er1JD27X6m+SPNW71s2OXpM/e/7k513D/1xb7W2q/aS1KHi4fUjTQ6di
+6dPTr45fc9m5MTAwwzOq7Vjm3jOTam5WPtI/bicdUfLemZz63LnxK2f+GhtzJH75
+uidOrzuZ1DqeE0/G/Kr4niHwpfysJf26DxjHegpu/Njhad+Uufrt2o4XP9x15bW/
+nNZ0f3jMibpLdUtf8dZNrtvUea/9XEvDVxtXFAzds7ZWlppLszeObtfzpsXefCa2
+rHu0v60T7hw84sJbE1gzTb5ZtLSnYWhy5Zdl20amTt9ddvvWlt3bm3rnf7zibkfZ
+qh13r8xdc/r4qu7nwsVlQ1uMefs/yD54/WLyqwPHLarIaHt5X6w+8ynUVFMpzchN
+fGdv9LpRMs4+Xrpy1aQ9XdEgufVF5pyULTVbj6ZMWNS5OWdKRy0f3fRG7FhX7oJQ
+wc3ZizfO21NeRQ9NLZ5pPHphYdV6VCR3tjcvWDw449bsFQ3ZNYGK948+tvnh5kXb
+emKxy6+fb0zpPX7p65iTbZM73vSBjaemHwDe+Wb193nRswFjw+WfGx//7eCAa6XP
+to6qa5l4ZhC4eDbw0d/L6+s+rUnxH71ale0czto+deWJxorK+HtLcuo3/IFeKNmV
+WXJtwrJhUxKKcqZ5n0xclrT1p66J6oUbTw8bWZ2wd3fD7dqMxtPnanIH/zI89m7l
+t/s3rU/O6j4fv/CO3566+khrz9m7+yZ37vgHXP8aeQ==
+=byn1
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/hanson2010
+
+==================================================================
