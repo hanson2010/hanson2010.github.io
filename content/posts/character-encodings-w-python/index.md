@@ -2,7 +2,7 @@
 title: Python字符编码常识
 date: 2010-01-21T10:21:37+08:00
 categories:
-- Python
+- Programming
 tags:
 - unicode
 - python

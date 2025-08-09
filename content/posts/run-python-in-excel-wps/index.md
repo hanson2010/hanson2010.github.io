@@ -2,7 +2,7 @@
 title: 在Excel/WPS中运行Python代码
 date: 2021-03-01T14:59:42+08:00
 categories:
-- Python
+- Programming
 tags:
 - python
 - excel

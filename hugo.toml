@@ -1,18 +1,19 @@
 baseurl = "https://blog.pythoner.work/"
 title = "hanson.blog();"
-copyright = "Copyright &copy; 2009–2022 Hanson Hu"
+copyright = "Copyright &copy; 2009–2025 Hanson Hu"
 canonifyurls = true
 theme = "kiera"
 
-paginate = 3
+[pagination]
+    pagersize = 3
 
-summaryLength = 30
+summaryLength = 20
 enableEmoji = true
 pygmentsCodeFences = true
 
 #disqusShortname = "myShortName"
 
-[author]
+[params.author]
     name = "Hanson Hu"
     github = "hanson2010"
     #gitlab = "username"

@@ -2,7 +2,7 @@
 title: CSS常识及奇技淫巧
 date: 2010-01-10T00:37:33+08:00
 categories:
-- Frontend
+- Programming
 tags:
 - css
 ---

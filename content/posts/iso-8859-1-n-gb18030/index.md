@@ -2,7 +2,7 @@
 title: 锟斤拷
 date: 2011-04-23T23:31:25+08:00
 categories:
-- Python
+- Programming
 tags:
 - unicode
 - encoding

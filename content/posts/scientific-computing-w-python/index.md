@@ -2,7 +2,7 @@
 title: Python库中一些与科学计算相关的方法
 date: 2014-02-10T14:45:17+08:00
 categories:
-- Python
+- Programming
 tags:
 - python
 - numpy
