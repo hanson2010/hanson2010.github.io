@@ -1,0 +1,24 @@
+languageName: "中文"
+weight: 2
+taxonomies:
+  category: categories
+  tag: tags
+  series: series
+menu:
+  main:
+    - name: 类别
+      url: categories/
+      weight: 10
+    - name: 标签
+      url: tags/
+      weight: 20
+    - name: 搜索
+      url: search/
+      weight: 30
+    - name: 关于
+      url: about/
+      weight: 40
+
+params:
+  description: "一个终身程序员。"
+  author: "Hanson Hu"
