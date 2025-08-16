@@ -39,6 +39,8 @@ markup:
     style: monokai
 
 services:
+  googleAnalytics:
+    id: G-V0C7EH4L0P
   instagram:
     disableInlineCSS: true
   x:
