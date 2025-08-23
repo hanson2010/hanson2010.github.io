@@ -1,6 +1,7 @@
 ---
 title: 利用SSH的动态端口转发上网
 date: 2010-03-22T14:18:45+08:00
+draft: true
 categories:
 - Tool
 tags:

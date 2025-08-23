@@ -3,7 +3,6 @@ weight: 1
 taxonomies:
   category: categories
   tag: tags
-  series: series
 menu:
   main:
     - name: Categories
@@ -12,13 +11,22 @@ menu:
     - name: Tags
       url: tags/
       weight: 20
+    - name: Archives
+      url: archives/
+      weight: 30
     - name: Search
       url: search/
-      weight: 30
+      weight: 40
     - name: About
       url: about/
-      weight: 40
+      weight: 50
 
 params:
   description: "A lifelong programmer."
   author: "Hanson Hu"
+  homeInfoParams:
+    Title: "A lifelong programmer. | Java for food, Python for fun"
+    Content: >
+      👋 Welcome to my weblog.
+
+      - Feel free to show your support by giving me a star 🌟 on GitHub or subscribe to it with your favorite RSS reader.

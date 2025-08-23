@@ -14,13 +14,6 @@ ShowToc: true
 # comments: false
 images: ["images/markdown.png"]
 
-homeInfoParams:
-  Title: "Java for food, Python for fun"
-  Content: >
-    👋 Welcome to my weblog.
-
-    - Feel free to show your support by giving me a star 🌟 on GitHub or subscribe to it with your favorite RSS reader.
-
 socialIcons:
   - name: github
     title: GitHub

@@ -1,5 +1,5 @@
 baseURL: "https://blog.pythoner.work/"
-title: "hanson.blog(); | A lifelong programmer."
+title: "hanson.blog();"
 copyright: "Copyright &copy; 2009–2025 Hanson Hu"
 theme: "papermod"
 
@@ -10,7 +10,11 @@ buildFuture: false
 buildExpired: false
 enableEmoji: true
 pygmentsUseClasses: true
-mainsections: ["posts", "papermod"]
+mainsections: "posts"
+
+permalinks:
+  page:
+    posts: "/:sections[first]/:slugorcontentbasename/"
 
 minify:
   disableXML: true
