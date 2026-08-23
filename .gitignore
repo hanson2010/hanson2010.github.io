@@ -28,3 +28,9 @@ Desktop.ini
 
 # Recycle Bin used on file shares
 $RECYCLE.BIN/
+
+# Agents
+AGENTS.md
+CLAUDE.md
+.agents/
+.claude/
